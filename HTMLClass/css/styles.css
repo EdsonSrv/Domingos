@@ -1,0 +1,17 @@
+.contenedor{
+  position: relative;
+  margin: auto;
+  width: 500px;
+}
+
+.columna-left{
+  position: relative;
+  float: left;
+  width: 50%;
+}
+
+.columna-right{
+  position: relative;
+  float: left;
+  width: 50%;
+}
